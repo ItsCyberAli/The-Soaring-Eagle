@@ -1,0 +1,8 @@
+keyboard
+tabulate
+werkzeug
+colorama
+flask
+Crypto
+pycryptodome
+pyfiglet
