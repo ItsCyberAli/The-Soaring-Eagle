@@ -16,8 +16,7 @@ collaborate to help others learn!
   <a href="#reach-me-here">Reach Me Here</a> •
   <a href="#support">Support</a>
 </p>
-![plot](C:\Users\beydo\Downloads\SoaringEagle.png)
-![screenshot](https://github.com/ItsCyberAli/Phishing-Templates/blob/main/READMEGIF.gif)
+![](TheSoaringEagle/SoaringEagle.png]
 
 ## Key Features
 
