@@ -16,7 +16,8 @@ collaborate to help others learn!
   <a href="#reach-me-here">Reach Me Here</a> •
   <a href="#support">Support</a>
 </p>
-![](TheSoaringEagle/SoaringEagle.png]
+
+![SoaringEagle](https://user-images.githubusercontent.com/111126641/195888314-a56ccdda-cfa4-406c-a656-1d73a7ad7c76.png)
 
 ## Key Features
 
