@@ -40,11 +40,14 @@ collaborate to help others learn!
 To clone and run this application, you'll need Python3 and Python3-pip installed
 
 ```bash
-# Download this repository
-$ From The Upper Right Hand Corner Where It Says Code, Click It And Download The ZIP File
+# Install Python3 & Python3-pip
+$ sudo apt install python3 python3-pip
 
-# Go To VSCode & Unzip The Download
-$ Inside You Will See Phishing-Templates-Main
+# Clone this repository
+$ git clone https://github.com/ItsCyberAli/The-Soaring-Eagle.git
+
+# Navigate To The Repository Where You Installed It
+$ cd TheSoaringEagle/The-Soaring-Eagle
 
 # This Step Is Very Important
 $ When Inside Of Vscode It Is Important To Select The NETFLIX, HULU etc Folder And Not The Phishing-Templates-Main
