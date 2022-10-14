@@ -49,12 +49,11 @@ $ git clone https://github.com/ItsCyberAli/The-Soaring-Eagle.git
 # Navigate To The Repository Where You Installed It
 $ cd TheSoaringEagle/The-Soaring-Eagle
 
-# This Step Is Very Important
-$ When Inside Of Vscode It Is Important To Select The NETFLIX, HULU etc Folder And Not The Phishing-Templates-Main
-Or Else The CSS When You Launch The Live Server Wont Show The Complete Page
+# Install The Dependencies & Requirements In Order For The Tool To Run
+$ python3 -m pip install -r requirements.txt
 
-# Right Click On The .HTML Files And Click Live Server
-$ Bam The Phishing Page Is There And Use It At Your Own Risk And Modify It To Your Liking As Well As Add Logic
+# Run The Code & Enjoy
+$ python3 run.py
 ```
 
 
