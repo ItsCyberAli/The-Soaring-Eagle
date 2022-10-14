@@ -21,22 +21,23 @@ collaborate to help others learn!
 
 ## Key Features
 
-* Very Easy & Versatile Frontend Code
-  - Instantly click live server on the index.html file inside and the web template will pop up
-* No logic Just Frontend Design (This Will & Can Change In The Future)
-  - I did not add the logic because I want to allow room for your own custom code to be implemented to further your operation
-* Easy To Read Code 
-* Commented Lines To Show You Where Everything Is
-* Mobile Responsive As Well
-* It Is As Simple As Downloading The Folder & Customizing Your Phishing / Rsearch Strategy
-* Supports Multiple Browsers
-* Netlify Upload Or To Your Own Custom Domain
-* Most Recent Designs Or Well Known Ones
-* Custom Coded It All From Scratch, I Did Not Use Clone Generators etc
+* Start Multiple Http Listeners
+  - I developed it to allow more than one HTTP listener running at the same time
+* Create Listeners
+  - Have the ability to create a listener and save it to the database to reuse without constantly typing input
+* List Listeners From The Database To See What Listeners You Currently Have
+* Delete Listeners
+* A Database Using SQLite and built in custom queries using SQL to retrieve data
+* Delete Database
+* Encrypted Communications Using AES Even Over HTTP Using A Random Generated Key
+* Generate Powershell Payloads And Automatically Replaces Paramaters Needed For The Payload To Connect Back To The Listeners
+* Execute Powershell Commands
+* Execute CMD Commands
+* There are other commands you will see inside the payload that I did not add inside the command section on the operator side
 
 ## How To Use
 
-To clone and run this application, you'll need VSCode and LiveServer Extension From VSCode installed on your computer.
+To clone and run this application, you'll need Python3 and Python3-pip installed
 
 ```bash
 # Download this repository
