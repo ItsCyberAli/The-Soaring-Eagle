@@ -47,7 +47,7 @@ $ sudo apt install python3 python3-pip
 $ git clone https://github.com/ItsCyberAli/The-Soaring-Eagle.git
 
 # Navigate To The Repository Where You Installed It
-$ cd TheSoaringEagle/The-Soaring-Eagle
+$ cd The-Soaring-Eagle/The Soaring Eagle
 
 # Install The Dependencies & Requirements In Order For The Tool To Run
 $ python3 -m pip install -r requirements.txt
