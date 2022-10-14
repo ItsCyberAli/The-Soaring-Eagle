@@ -6,7 +6,7 @@
 
 <h4 align="center">I developed this tool for whoever wants to learn the basics regarding C2 and Malware Development, it is not intended to be used in real world scenarios and engagements you will get caught guaranteed, 
 I developed it for learning not evasion. However I am working on something very sophisticated and if you have any questions feel free to reach out to me on my twitter or even improve the code and 
-collaborate to help others learn!
+collaborate to help others learn! Also please do understand I did not incorporate much or rarely any error handling and if directions are not carefully followed the program will crash! Happy learning and best of luck on your C2 & Mal Dev Journey!
 </h4>
 
 <p align="center">
