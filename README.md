@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  💻 The Soaring Eagle C2 💻
+  🦅 The Soaring Eagle C2 🦅
   <br>
 </h1>
 
